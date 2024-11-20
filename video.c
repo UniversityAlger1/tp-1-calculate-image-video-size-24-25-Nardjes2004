@@ -37,5 +37,4 @@ float video(int w, int h, int durationMovie, int durationCredits, int fps, char*
         return 0.0;
     }
    // YOUR CODE HERE - END
-   return 0;
 }
